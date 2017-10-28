@@ -6,7 +6,7 @@ Directions:
 * Open the html file via a web browser
 * Print the puzzle to solve
 
-This script produces a matrix that 17x17 big (see attached photo). Each number in the matrix is random generated. It also produces 21 random number searches. The idea that the user would search for these in the matrix.
+This script produces a matrix that 17x17 big ([see attached photo](https://github.com/kjabr/Number-Search-Puzzle/blob/master/IMG_5682.JPG)). Each number in the matrix is random generated. It also produces 21 random number searches. The idea that the user would search for these in the matrix.
 
 ## Some details:
 
