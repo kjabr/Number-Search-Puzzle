@@ -1,6 +1,14 @@
 # Number-Search-Puzzle
 
-Directions:
+## Updates:
+
+- Nov3, 2017:
+  * Add multi puzzle support
+  * Default is 1 puzzle
+  * Add a number as an argument to generate many
+  * Puzzles separated by new pages for easier printing
+
+## Directions:
 * Download and run the Python script "python Number-Search-Puzzle.py"
 * Script generates an html file in the same directory called number_search_puzzle.html
 * Open the html file via a web browser
