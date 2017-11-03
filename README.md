@@ -3,7 +3,7 @@
 ## Updates:
 
 - Nov3, 2017:
-  * Add multi puzzle support
+  * Added multi puzzle support
   * Default is 1 puzzle
   * Add a number as an argument to generate many
   * Puzzles separated by new pages for easier printing
