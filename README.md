@@ -10,7 +10,8 @@
 
 ## Directions:
 * Download and run the Python script "python Number-Search-Puzzle.py"
-* Script generates an html file in the same directory called number_search_puzzle.html
+* You can add a number as an argument. That denotes how many puzzles you want to generate. Default is 1 if no argument is used
+* Script generates an html file in the same directory called "number_search_puzzle.html"
 * Open the html file via a web browser
 * Print the puzzle to solve
 
